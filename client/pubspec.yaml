@@ -1,0 +1,30 @@
+name: client
+description: A new Flutter project.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '^3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  shared_preferences: ^2.2.2
+  google_fonts: ^6.1.0
+  http: ^1.2.0
+  fl_chart: ^0.68.0
+
+  dio: ^5.4.0
+  provider: ^6.1.2
+  flutter_secure_storage: ^9.0.0
+  go_router: ^13.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
