@@ -1,2 +1,2 @@
 ﻿# Vivah-Prabandh
-<!-- Update done-->
+<!-- Update done daily-->
